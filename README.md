@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Hariharasudharsan
-- 👀 I’m interested in COADING
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me @ INSTAGRAM @its_me_hhs
+🧑‍💻 About Me
+🎓 Pursuing B.E. Computer Science and Engineering
+🌱 Currently learning Salesforce Development (PD1, Apex, LWC, Visualforce)
+📊 Hands-on experience in Data Science, ML, and Wind Energy Prediction Project
+💡 Interested in AI, Cloud Technologies, and Entrepreneurship
+✨ Member of Entrepreneurship Cell and organized E-Buzzar
 
-<!---
-Hariharasudharsan/Hari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Tech Stack
+Languages & Tools:
+🐍 Python | Java | Apex
+🛠 Salesforce (Admin, Apex, LWC, Visualforce)
+📊 Pandas | NumPy | Scikit-learn | Matplotlib
+☁️ Git | GitHub | VS Code | Jupyter Notebook
